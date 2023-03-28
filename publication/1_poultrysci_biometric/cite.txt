@@ -1,0 +1,11 @@
+Zhonghao Chen, Pengguang He, Yefan He, Fan Wu, Xiuqin Rao, Jinming Pan, Hongjian Lin,
+Eggshell biometrics for individual egg identification based on convolutional neural networks,
+Poultry Science,
+Volume 102, Issue 4,
+2023,
+102540,
+ISSN 0032-5791,
+https://doi.org/10.1016/j.psj.2023.102540.
+(https://www.sciencedirect.com/science/article/pii/S0032579123000640)
+Abstract: Individual egg identification technology has potential applications in breeding, product tracking/tracing, and anti-counterfeit. This study developed a novel method for individual egg identification based on eggshell images. A convolutional neural network-based model, named Eggshell Biometric Identification (EBI) model, was proposed and evaluated. The main workflow included eggshell biometric feature extraction, egg information registration, and egg identification. The image dataset of individual eggshell was collected from the blunt-end region of 770 chicken eggs using an image acquisition platform. The ResNeXt network was then trained as a texture feature extraction module to obtain sufficient eggshell texture features. The EBI model was applied to a test set of 1,540 images. The testing results showed that when an appropriate Euclidean distance threshold for classification was set (17.18), the correct recognition rate and the equal error rate reached 99.96% and 0.02%. This new method provides an efficient and accurate solution for individual chicken egg identification, and can be extended to eggs of other poultry species for product tracking/tracing and anti-counterfeit.
+Keywords: chicken egg identification; eggshell biometrics; computer vision; convolutional neural networks
